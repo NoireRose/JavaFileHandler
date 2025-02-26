@@ -24,7 +24,7 @@ class Main {
 
     String content = "How are you?\nHow old are you?\nDo you like chocolate? (you better)\n";
     // Overwrite EX. (This returns it back to original)
-    FileHandler.writeFile(filePath, content, false);
+    //FileHandler.writeFile(filePath, content, false);
     //FileHandler.readFile(filePath);
   }
 
